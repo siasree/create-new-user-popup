@@ -1,0 +1,31 @@
+.btn-gray {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    position: relative;
+    right: 25vw;
+}
+
+.row-first {
+    display: flex;
+}
+
+.row-second {
+    display: flex;
+}
+
+.modal-header-1 {
+    padding: 5px 15px;
+    /* border-bottom: 1px solid #e5e5e5; */
+}
+
+.modal-body-1 {
+    position: relative;
+    padding: 5px 15px;
+}
+
+.modal-footer-1 {
+    padding: 15px;
+    text-align: right;
+    /* border-bottom: 1px solid #e5e5e5; */
+}
